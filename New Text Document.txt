@@ -1,0 +1,3 @@
+#back-button {
+  list-style-image: url("icon.svg") !important;
+}
